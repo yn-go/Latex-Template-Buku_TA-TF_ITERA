@@ -5,7 +5,7 @@ Template dokumen LaTeX siap pakai yang disesuaikan dengan pedoman penulisan Tuga
 ## 🚀 Cara Penggunaan
 
 ### Menggunakan Overleaf
-1. Download file **ZIP** (`Open Template_TA_TF_Itera.zip` -> `Download Raw`).
+1. Download file **ZIP** (`Open Template-TA-TF-Itera-2_0.zip` -> `Download Raw`).
 2. Masuk ke [Overleaf](https://www.overleaf.com), pilih **New Project** -> **Upload Project**.
 3. Pastikan compiler diatur ke **pdfLaTeX**.
 4. Set main document ke `main.tex`.
