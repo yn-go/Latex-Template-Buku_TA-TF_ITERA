@@ -24,4 +24,4 @@ Template dokumen LaTeX siap pakai yang disesuaikan dengan pedoman penulisan Tuga
 4. **`gambar/`**: Letakkan semua aset gambar yang digunakan di folder ini.
 
 ## 📄 Lisensi
-[MIT License](LICENSE) (atau cantumkan lisensi yang Anda pilih).
+[MIT License](LICENSE).
