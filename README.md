@@ -5,17 +5,10 @@ Template dokumen LaTeX siap pakai yang disesuaikan dengan pedoman penulisan Tuga
 ## 🚀 Cara Penggunaan
 
 ### Menggunakan Overleaf
-1. Download repositori ini sebagai **ZIP** (`Code` -> `Download ZIP`).
+1. Download file **ZIP** (`Open Template_TA_TF_Itera.zip` -> `Download Raw`).
 2. Masuk ke [Overleaf](https://www.overleaf.com), pilih **New Project** -> **Upload Project**.
-3. Pastikan compiler diatur ke **pdfLaTeX** (sesuaikan dengan template Anda).
+3. Pastikan compiler diatur ke **pdfLaTeX**.
 4. Set main document ke `main.tex`.
-
-### Menggunakan Offline (VS Code / TeXstudio)
-1. Clone repositori:
-   ```bash
-   git clone [https://github.com/username/repo-template-skripsi.git](https://github.com/username/repo-template-skripsi.git)
-   ```
-2. Buka dan compile `main.tex` menggunakan editor LaTeX favorit Anda.
 
 ## 📝 Panduan Pengisian Dokumen
 1. **`identitas.tex`**: Masukkan biodata diri, data pembimbing, dan judul skripsi Anda di sini.
